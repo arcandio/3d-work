@@ -41,7 +41,7 @@ Portfolio for video game companies and 3d houses.
 
 * Fantasy
 * Western
-* Darkstalkers/heavy metal style
+* Darksiders/heavy metal style
 * dirty metal, jewel, blood, wrapped handles, wood haft
 * PBR
 
