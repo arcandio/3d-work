@@ -39,7 +39,7 @@ Portfolio for video game companies and 3d houses.
 
 ### Sword & Axe
 
-![Sword and Axe concept art](dev/sword and axe concept.jpg)
+![Sword and Axe concept art](dev/sword and axe concept.jpg?raw=true)
 
 * Fantasy
 * Western
