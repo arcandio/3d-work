@@ -79,3 +79,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Blender
+*.blend1
+*.blend2
+*.blend3
