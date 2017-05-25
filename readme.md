@@ -39,11 +39,16 @@ Portfolio for video game companies and 3d houses.
 
 ### Sword & Axe
 
+![Sword and Axe concept art](dev/sword and axe concept.jpg)
+
 * Fantasy
 * Western
 * Darksiders/heavy metal style
+* Ref: [1](https://cdnb.artstation.com/p/assets/images/images/000/233/519/large/michael-skyers-darksiders-2-create-a-weapon-contest-by-0skyers0-d4uvngn.jpg?1412346696) [2](https://maxdavenport.files.wordpress.com/2012/03/sculpt03.jpg) [3](http://www.gamearthub.net/wp-content/uploads/2013/01/Darksiders_2_characters_tohankim-darksiders-ii-4.jpg) [4](https://s-media-cache-ak0.pinimg.com/originals/86/6d/b1/866db1fc776517e02fca424df6543256.jpg) [5](http://www.autodestruct.com/images/ds_blade1.jpg) [6](https://s-media-cache-ak0.pinimg.com/originals/be/cf/3d/becf3d26d512ac98118d727e9d40a693.jpg) [7](https://s-media-cache-ak0.pinimg.com/originals/f3/84/22/f3842282b41e179abad4f1b670b61bc7.jpg)
 * dirty metal, jewel, blood, wrapped handles, wood haft
 * PBR
+* Symmetrical
+* Held by diablo style grey/ash demon skull
 
 ### Scifi Gun
 
