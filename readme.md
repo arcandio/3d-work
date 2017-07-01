@@ -22,6 +22,7 @@ Portfolio for video game companies and 3d houses.
 
 ### PBR Texturing
 
+* Reference: [1](https://www.marmoset.co/posts/pbr-texture-conversion/) [2](https://www.marmoset.co/wp-content/uploads/metalnessedgeartifacts01.jpg) [3](http://www.gametextures.com/wp-content/uploads/2014/05/SciFiPipeKit.png) [4](http://www.saphirestudio.at/wptest/wp-content/uploads/2015/01/collage_1.jpg) [5](https://www.artstation.com/artwork/g0Xd8) [6](https://cdna.artstation.com/p/assets/images/images/000/343/618/large/sorin-lupu-details-villain-render.jpg?1443927568) [7](https://imgur.com/EBMhHte) [8](https://68.media.tumblr.com/fc48031bb5f53aa964844d475bafa113/tumblr_nel5peQmYu1rwuozio1_1280.jpg)
 * Base Color Map
 * Metalness Map
 * Specular Map (for nonmetals)
@@ -53,7 +54,7 @@ Portfolio for video game companies and 3d houses.
 ### Scifi Gun
 
 * Hard Surface
-* Realistic
+* Hyper-Realistic
 * Linear Accelerator
 * Glowy bits
 * Punched holes
@@ -96,18 +97,29 @@ Portfolio for video game companies and 3d houses.
 
 * Demon
 * Wayne Barlow
-* Detailed
-* Weird biology
+* Kev Crossley
+* Hyper-Detailed
+* Fucked Up Weird biology
 
 ### Military Face
 
 * Near Future
 * BDUs
 * Mask/helmet
+* Glass
+  * Helmet UI ala Iron Man
+* Scars
+* Hair
+  * facial hair
+  * Eyebrows
+  * Hair
+  * Anisotropic shader?
 
 ### Mech
 
 - Sci Fi
+- Evangelion Face
+- Study Gundam extras
 
 ## Environments
 
@@ -117,6 +129,9 @@ Portfolio for video game companies and 3d houses.
 * gnarled trees
 * stone lanterns
 * small red lacquered shrine
+* Hand painted everything
+* Colorful and brilliant lighting
+* particle effects
 
 ###  Planet Dust
 
@@ -134,3 +149,6 @@ Portfolio for video game companies and 3d houses.
 * blood pool
 * Blood chalice
 * gold jewelry
+* Lava
+  * animated UVs
+  * Shader
